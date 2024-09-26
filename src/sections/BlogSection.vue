@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-8 mt-20 mb-20">
-    <h2 class="text-3xl sm:text-4xl md:text-5xl font-bold text-center text-blue-700 mb-10">Top Blogs</h2>
+    <h2 class="text-3xl sm:text-4xl md:text-5xl font-bold text-center text-blue-700 mb-10">Latest Blogs</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       <!-- Tall column -->
       <div class="relative overflow-hidden rounded-3xl shadow-md h-[calc(100vh-20rem)] max-h-[40rem]">
